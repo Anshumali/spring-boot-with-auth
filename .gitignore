@@ -1,4 +1,5 @@
 .gradle
+src/main/resources/application.properties
 *.sw?
 .#*
 *#
@@ -34,4 +35,4 @@ overridedb.*
 .DS_Store
 dump.rdb
 transaction-logs
-*application.properties
+.gitignore
